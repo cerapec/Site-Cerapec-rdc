@@ -1,0 +1,161 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;	
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.logo {
+    height: 60px;
+}
+
+nav {
+    background-color: #333;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+nav li {
+    margin: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    background-color: #444;
+    border-radius: 5px;
+}
+
+nav a:hover {
+    background-color: #666;
+}
+
+.image-section img {
+    max-width: 90%;
+    height: auto;
+    margin-top: 20px;
+}
+
+footer {
+    margin: 40px 0;
+}
+
+footer a {
+    color: #007BFF;
+    text-decoration: none;
+}
+#commentaire {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    border-top: 1px solid #ccc;
+    text-align: left;
+}
+
+#commentaire form {
+    display: flex;
+    flex-direction: column;
+}
+
+#commentaire input,
+#commentaire textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#commentaire button {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#commentaire button:hover {
+    background-color: #0056b3;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  .form-container {
+    width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  form label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  form input,
+  form select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  h1
+  {
+    color: #1ca674;
+}
+h3
+{
+    color: #07045e;
+}
+   strongx 
+{
+    color: #07045e;
+}
+    strongz
+    {
+        color: #c10f0f;
+    }
+    STRongA
+    {
+        color: #1ca674;
+    }
+    P2
+    {
+        
+    }
+
+
+
+
+
+  
